@@ -40,12 +40,4 @@ For **VenvHub Pro** users: install the package via the venv context menu → `�
 
 If you don't want to manage the package via pip, simply copy the source code subdirectory (e.g., `python_packages/pydiskinfo/pydiskinfo`) directly into your project and import it locally.
 
-### 3. Usage via VenvHub Shared Libraries (Linker)
 
-The package also includes a prepared `local_meta.json` file, so you can easily link it using the **Local Packages (Shared Libraries)** feature in VenvHub Pro:
-
-- In the environments table, right-click on the selected venv.
-- Select `🔗 Local packages`.
-- Check `pydiskinfo` and save changes.
-
-VenvHub takes care of import paths, dependencies, and VS Code integration.
