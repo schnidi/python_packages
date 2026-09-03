@@ -8,7 +8,7 @@ This repository serves as the home directory for a collection of custom Python p
 
 | Package | Dependencies | Platforms | Description |
 | :--- | :--- | :--- | :--- |
-| [**pydiskinfo**](#-pydiskinfo) | Zero-dependency | Windows, Linux, macOS | Retrieve information about mounted disks, partitions, filesystems, and directory sizes. |
+| [**pydiskinfo**](pydiskinfo/README.md) | Zero-dependency | Windows, Linux, macOS | Retrieve information about mounted disks, partitions, filesystems, and directory sizes. |
 
 *(More packages will be added gradually)*
 
