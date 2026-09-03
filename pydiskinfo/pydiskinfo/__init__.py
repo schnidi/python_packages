@@ -1,5 +1,5 @@
 # pydiskinfo - Lightweight cross-platform disk info library
-# Copyright (C) 2026 Your Name (alebo Meno/Autor pôvodného projektu)
+# Copyright (C) 2026 Your Name (alebo Meno/Viliam Schneider)
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
